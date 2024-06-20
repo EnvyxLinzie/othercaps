@@ -264,6 +264,78 @@ export const pricingOptions = [
   },
 ];
 
+export const serviceOptions = [
+  {
+    title: "Whatsapp",
+    price: "Start 300K",
+    features: [
+      "Force Close Whatsapp",
+      "Banned Whatsapp",
+      "Unbanned Whatsapp",
+      "Spam OTP Whatsapp",
+    ],
+    orderLink: "https://t.me/capscyber?text=halo%20admin%2C%20saya%20mau%20order%20jasa%20whatsappnya",
+  },
+  {
+    title: "DDOS",
+    price: "Start 500K",
+    features: [
+      "Web Cloudflare",
+      "Web Rank Page",
+      "Web Saingan",
+      "Web Gov",
+    ],
+    orderLink: "https://t.me/capscyber?text=halo%20admin%2C%20saya%20mau%20order%20jasa%20ddosnya",
+  },
+  {
+    title: "Jasa Buzzer",
+    price: "Start 1.5 Juta",
+    features: [
+      "Support kampanye",
+      "Komentar Positif",
+      "Komentar Negatif",
+      "Bebas Pilih di Platform apa",
+    ],
+    orderLink: "https://t.me/capscyber?text=halo%20admin%2C%20saya%20mau%20order%20vpsnya",
+  },
+  {
+    title: "Jasa Osint",
+    price: "Start 500K/Jam",
+    features: [
+      "Kami Carikan Data Pribadi",
+      "Riwayat Social Media",
+      "Riwayat Lokasi Terakhir",
+      "Kami berikan layanan by request mau cari apa",
+      "Only Indonesia",
+    ],
+    orderLink: "https://t.me/capscyber?text=halo%20admin%2C%20saya%20mau%20order%20jasa%20osintya",
+  },
+  {
+    title: "Jasa Penetrate Web",
+    price: "Start 500K/Jam",
+    features: [
+      "Kami Carikan Kerentanan Di Web Kalian",
+      "Cara Menutup Kerentanan/Bug",
+      "White-hack Standard Reporting",
+      "Staff kami teruji dengan sertifikat pentester",
+      "Support segala macam web/app",
+    ],
+    orderLink: "https://t.me/capscyber?text=halo%20admin%2C%20saya%20mau%20order%20jasa%20penetrate%20webnya",
+  },
+  {
+    title: "Instagram",
+    price: "Start 500K",
+    features: [
+      "Bebas Request Akun Siapa",
+      "Pengerjaan Cepat",
+      "Banned Permanent Akunnya",
+      "Unbanned Instagram",
+      "Only Indonesia",
+    ],
+    orderLink: "https://t.me/capscyber?text=halo%20admin%2C%20saya%20mau%20order%20jasa%20ban%20ignya",
+  },
+];
+
 export const resourcesLinks = [
   { href: "#", text: "© Capscyber 2024 Inc. All rights reserved" },
 ];
