@@ -32,7 +32,7 @@ const Pricing = () => {
                 ))}
               </ul>
               <a
-                href="https://t.me/Capscyber"
+                href={option.orderLink}
                 className="inline-flex justify-center items-center text-center w-full h-12 p-5 mt-20 tracking-tight text-xl hover:bg-blue-900 border border-blue-900 rounded-lg transition duration-200"
               >
                 Order Via Telegram

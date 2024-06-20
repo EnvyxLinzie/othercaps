@@ -17,10 +17,10 @@ const HeroSection = () => {
           href="https://t.me/Capscyber"
           className="bg-gradient-to-r from-blue-500 to-blue-800 py-3 px-4 mx-3 rounded-md"
         >
-          Order Sekarang
+          Contact Us
         </a>
-        <a href="https://t.me/Capscyber" className="py-3 px-4 mx-3 rounded-md border">
-          Hubungi Kami
+        <a href="https://t.me/cybercaps" className="py-3 px-4 mx-3 rounded-md border">
+          Join Telegram
         </a>
       </div>
       

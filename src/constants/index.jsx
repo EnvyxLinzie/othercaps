@@ -23,37 +23,37 @@ export const testimonials = [
     user: "Ire",
     company: "Trading News",
     image: user1,
-    text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
+    text: "Saya sangat puas dengan layanan yang diberikan. Timnya responsif, profesional, dan memberikan hasil yang melebihi ekspektasi saya.",
   },
   {
     user: "Dewi",
     company: "Blue Horizon Technologies",
     image: user2,
-    text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life",
+    text: "Saya tidak bisa lebih bahagia lagi dengan hasil proyek kami. Kreativitas dan kemampuan pemecahan masalah tim sangat penting dalam mewujudkan visi kami",
   },
   {
     user: "Rico",
     company: "Crypto News",
     image: user3,
-    text: "Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. ",
+    text: "Bekerja dengan perusahaan ini sangat menyenangkan. Perhatian mereka terhadap detail dan komitmen mereka terhadap keunggulan patut dipuji.",
   },
   {
     user: "Roni",
     company: "E-commerce",
     image: user4,
-    text: "Working with the team at Capscyber was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible.",
+    text: "Bekerja dengan tim di Capscyber adalah pilihan terbaik untuk proyek kami. Perhatian mereka terhadap detail dan solusi inovatif membantu kami mencapai tujuan kami lebih cepat dari yang kami duga.",
   },
   {
     user: "Albert",
     company: "Bloggers",
     image: user5,
-    text: "I am amazed by the level of professionalism and dedication shown by the team. They were able to exceed our expectations and deliver outstanding results.",
+    text: "Saya kagum dengan tingkat profesionalisme dan dedikasi yang ditunjukkan oleh tim. Mereka mampu melampaui ekspektasi kami dan memberikan hasil yang luar biasa.",
   },
   {
     user: "Dhea",
     company: "Synergy Systems",
     image: user6,
-    text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
+    text: "Tim ini bekerja lebih dari yang diharapkan untuk memastikan proyek kami sukses. Keahlian dan dedikasi mereka tak tertandingi. Saya berharap dapat bekerja sama dengan mereka lagi di masa depan.",
   },
 ];
 
@@ -129,6 +129,7 @@ export const pricingOptions = [
       "Shopee Bot Views Live",
       "Coming Soon",
     ],
+    orderLink: "https://t.me/capscyber?text=halo%20admin%2C%20saya%20mau%20order%20jasa%20shopeenya",
   },
   {
     title: "Tiktok",
@@ -140,6 +141,7 @@ export const pricingOptions = [
       "Tiktok Comments",
       "Tiktok Share",
     ],
+    orderLink: "https://t.me/capscyber?text=halo%20admin%2C%20saya%20mau%20order%20jasa%20tiktoknya",
   },
   {
     title: "Tokopedia",
@@ -150,6 +152,7 @@ export const pricingOptions = [
       "Tokopedia Bot Views Live",
       "Coming Soon",
     ],
+    orderLink: "https://t.me/capscyber?text=halo%20admin%2C%20saya%20mau%20order%20jasa%20tokopedianya",
   },
   {
     title: "Instagram",
@@ -160,6 +163,7 @@ export const pricingOptions = [
       "Instagram Likes",
       "Instagram Comments",
     ],
+    orderLink: "https://t.me/capscyber?text=halo%20admin%2C%20saya%20mau%20order%20jasa%20suntik%20instagramnya",
   },
   {
     title: "Youtube",
@@ -170,6 +174,7 @@ export const pricingOptions = [
       "Youtube Likes",
       "Positive Comments",
     ],
+    orderLink: "https://t.me/capscyber?text=halo%20admin%2C%20saya%20mau%20order%20jasa%20suntik%20youtubenya",
   },
   {
     title: "Google Maps",
@@ -180,6 +185,7 @@ export const pricingOptions = [
       "Fast Works",
       "Positive Comments",
     ],
+    orderLink: "https://t.me/capscyber?text=halo%20admin%2C%20saya%20mau%20order%20jasa%review%20googlenya",
   },
   {
     title: "Jasa Pembuat Web",
@@ -191,6 +197,7 @@ export const pricingOptions = [
       "Bonus Hosting Server",
       "Bonus Domain .com/.net/.id",
     ],
+    orderLink: "https://t.me/capscyber?text=halo%20admin%2C%20saya%20mau%20order%20jasa%20pembuatan%20webnya",
   },
   {
     title: "Jasa Migrasi Web",
@@ -202,6 +209,7 @@ export const pricingOptions = [
       "Pengerjaan Cepat",
       "Support Script Php/Js",
     ],
+    orderLink: "https://t.me/capscyber?text=halo%20admin%2C%20saya%20mau%20order%20jasa%20migrasi%20webnya",
   },
   {
     title: "Jasa Install Panel Server",
@@ -213,6 +221,7 @@ export const pricingOptions = [
       "Free Setup Config Panel",
       "Butuh Yang Lain? Bisa dibicarakan",
     ],
+    orderLink: "https://t.me/capscyber?text=halo%20admin%2C%20saya%20mau%20order%20jasa%20install%20panelnya",
   },
   {
     title: "Jasa Install Script",
@@ -225,6 +234,7 @@ export const pricingOptions = [
       "Support CMS Wordpress, Ghost.",
       "Support Php Script, Nodejs, Dll.",
     ],
+    orderLink: "https://t.me/capscyber?text=halo%20admin%2C%20saya%20mau%20order%20jasa%20install%20scriptnya",
   },
   {
     title: "Jasa Web Backlink",
@@ -237,6 +247,7 @@ export const pricingOptions = [
       "Strong Contextual Homepage Link",
       "Dan Masih Banyak Lagi",
     ],
+    orderLink: "https://t.me/capscyber?text=halo%20admin%2C%20saya%20mau%20order%20jasa%20web%20backlink",
   },
   {
     title: "Jasa Content Artikel",
@@ -249,6 +260,7 @@ export const pricingOptions = [
       "Copyscape-Passed Screenshot",
       "Support Content ID-En",
     ],
+    orderLink: "https://t.me/capscyber?text=halo%20admin%2C%20saya%20mau%20order%20jasa%20content%20artikelnya",
   },
 ];
 
